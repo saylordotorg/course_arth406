@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH406 - Buddhist Art"
+course: ARTH406
+course_fulltitle: "Buddhist Art"
+course_description: "Introduction to the Buddhist artistic traditions of South, Southeast, and East Asia. This course highlights the interaction between Buddhist doctrine, art and architecture as Buddhism spread and developed in a variety of regional contexts."
+---
 **Unit 2: Buddhist Art and Architecture in Southeast Asia** <span
 id="2"></span> 
 *This unit examines Theravada and Mahayana Buddhist art and architecture
