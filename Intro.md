@@ -114,3 +114,11 @@ Appreciation and Art Techniques, Units 1–4, which focus on general art
 history vocabulary, materials, and techniques.  This knowledge, combined
 with the more specific vocabulary covered in this course, will be useful
 when discussing Buddhist art and architecture.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth406/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth406/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth406/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth406/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth406/Unit05/)
