@@ -130,3 +130,4 @@ when discussing Buddhist art and architecture.
 - [Unit 3](https://legacy.saylor.org/arth406/Unit03/)
 - [Unit 4](https://legacy.saylor.org/arth406/Unit04/)
 - [Unit 5](https://legacy.saylor.org/arth406/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH406/ARTH406-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH406/ARTH406-FinalExam-Answers.html)
