@@ -559,9 +559,9 @@ CE)** <span id="4.2.2"></span> 
 **4.3.1 Buddhism in Japan: Overview** <span id="4.3.1"></span> 
 -   **Reading: Boundless: “Introduction” and “Art of Zen Buddhism”**
     Link: Boundless:
-    [“Introduction”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH406_4.3.1_Introduction.pdf)
+    [“Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH406_4.3.1_Introduction.pdf)
     (PDF) and [“Art of Zen
-    Buddhism”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH406_4.3.1_Art-of-Zen-Buddhism.pdf)
+    Buddhism”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH406_4.3.1_Art-of-Zen-Buddhism.pdf)
     (PDF)  
 
     Instructions: Please read these texts in their entirety for an
