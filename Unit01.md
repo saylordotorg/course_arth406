@@ -102,11 +102,11 @@ id="1.2.1"></span> 
 -   **Reading: Victoria and Albert Museum’s “Sanchi,” “Amaravati” and
     “Bharhut”**
     Link: Victoria and Albert Museum’s
-    “[Sanchi](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Sanchi.pdf),”
+    “[Sanchi](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Sanchi.pdf),”
     (PDF)
-    “[Amaravati](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Amaravati.pdf),”
+    “[Amaravati](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Amaravati.pdf),”
     (PDF) and
-    “[Bharhut](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Bharhut.pdf)”
+    “[Bharhut](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Bharhut.pdf)”
     (PDF)  
         
      Instructions: Please read about the Buddhist pilgrimage sites and
@@ -127,7 +127,7 @@ id="1.2.1"></span> 
 
 -   **Reading: Boundless: “Stupas”**
     Link: Boundless:
-    [“Stupas”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH406_1.2.2_Stupas.pdf)
+    [“Stupas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH406_1.2.2_Stupas.pdf)
     (PDF)  
       
      Instructions: Please read the text for a brief description of
@@ -159,7 +159,7 @@ id="1.2.1"></span> 
     Sandstone, circa 50 BC to 50 AD.”**
     Link: Art and Archaeology’s [“The Great Stupa at Sanchi, India.
     Sandstone, circa 50 BC to 50
-    AD”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH406_1.2.2_The-Great-Stupa-at-Sanchi.pdf)
+    AD”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH406_1.2.2_The-Great-Stupa-at-Sanchi.pdf)
     (PDF)  
 
     Instructions: Please read the text in its entirety.  Please also
@@ -188,7 +188,7 @@ id="1.2.1"></span> 
 
 -   **Reading: Victoria and Albert Museum’s “Bhaja & Karle”**
     Link: Victoria and Albert Museum’s “[Bhaja &
-    Karle](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Bhaja.pdf)”
+    Karle](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Bhaja.pdf)”
     (PDF)  
         
      Instructions: Please read the above text about the early Buddhist
@@ -309,7 +309,7 @@ id="1.4.1"></span> 
     Buddha & its influence in Asia”**
     Link: The Victoria and Albert Museum’s “[The Gupta style of the
     Buddha & its influence in
-    Asia](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH406-1.4.1-The-Gupta-Style-of-the-Buddha-its-influence-in-Asia.pdf)”
+    Asia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH406-1.4.1-The-Gupta-Style-of-the-Buddha-its-influence-in-Asia.pdf)”
     (PDF)  
       
      Instructions: Please read this page as an introduction to Buddhist
@@ -342,7 +342,7 @@ id="1.4.1"></span> 
 
 -   **Reading: Victoria and Albert Museum’s “Nalanda”**
     Link: Victoria and Albert Museum’s
-    “[Nalanda](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Nalanda.pdf)”
+    “[Nalanda](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Nalanda.pdf)”
     (PDF)  
         
      Instructions: Please read the above article about Buddhist site of
@@ -373,7 +373,7 @@ id="1.4.1"></span> 
 **1.4.2.1 Ajanta** <span id="1.4.2.1"></span> 
 -   **Reading: Victoria and Albert Museum’s “Ajanta Caves”**
     Link: Victoria and Albert Museum’s “[Ajanta
-    Caves](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Ajanta-Caves.pdf)”
+    Caves](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Ajanta-Caves.pdf)”
     (PDF)  
         
      Instructions: Please read the text about the Buddhist caves as
@@ -430,7 +430,7 @@ id="1.4.1"></span> 
 **1.4.2.2 Ellora** <span id="1.4.2.2"></span> 
 -   **Reading: Victoria and Albert Museum’s “Ellora”**
     Link: Victoria and Albert Museum’s
-    “[Ellora](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Ellora.pdf)”
+    “[Ellora](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Ellora.pdf)”
     (PDF)  
         
      Instructions: Please read about the Buddhist caves as Ellora.  Make
@@ -465,7 +465,7 @@ id="1.5"></span> 
 -   **Reading: Victoria and Albert Museum’s “Pilgrimage to Buddha’s Life
     Sites”**
     Link: Victoria and Albert Museum’s “[Pilgrimage to Buddha’s Life
-    Sites](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Pilgrimage-to-the-Buddha.pdf)”
+    Sites](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Pilgrimage-to-the-Buddha.pdf)”
     (PDF)  
         
      Instructions: Please note that this reading will also cover the
@@ -486,7 +486,7 @@ Life Sites** <span id="1.5.1"></span> 
 -   **Reading: Victoria and Albert Museum’s “Pilgrimage to Buddha’s Life
     Sites”**
     Link: Victoria and Albert Museum’s “[Pilgrimage to the Buddha’s Life
-    Sites](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Pilgrimage-to-the-Buddha.pdf)”
+    Sites](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Pilgrimage-to-the-Buddha.pdf)”
     (PDF)  
         
      Instructions: Please read over the text that explains the
