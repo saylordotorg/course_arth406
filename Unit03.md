@@ -205,7 +205,7 @@ id="3.2"></span> 
 -   **Reading: The Victoria and Albert Museum’s “Buddhist pilgrimage
     sites: Nepal”**
     Link: The Victoria and Albert Museum’s “[Buddhist pilgrimage sites:
-    Nepal](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH406-3.2.4-Buddhist-pilgrimage-sites-Nepal.pdf)”
+    Nepal](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH406-3.2.4-Buddhist-pilgrimage-sites-Nepal.pdf)”
     (PDF)  
       
      Instructions: Please read this page as an introduction to the
